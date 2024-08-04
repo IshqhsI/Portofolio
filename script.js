@@ -1,3 +1,5 @@
+AOS.init();
+
 const typedName = 'Muhammad Ridhwan';
 const typedNameElement = document.getElementById('typed-name');
 
