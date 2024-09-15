@@ -1,6 +1,6 @@
 AOS.init();
 
-const typedName = 'Muhammad Ridhwan';
+const typedName = 'Muhammad Ridhwan'; // Tulis nama yang diinginkan
 const typedNameElement = document.getElementById('typed-name');
 
 function typeWriter(text, element, speed) {
